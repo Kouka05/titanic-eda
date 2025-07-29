@@ -28,9 +28,9 @@ This project explores the famous [Titanic dataset](https://www.kaggle.com/compet
 
 Bar chart example:
 
-![Survival by Gender](figures/survival_by_gender.png)
+<img width="789" height="600" alt="image" src="https://github.com/user-attachments/assets/512a5113-4875-466d-9a10-4608b7d49a07" />
 
-Correlation heatmap:
+<img width="799" height="603" alt="image" src="https://github.com/user-attachments/assets/fe578e2c-e86f-4fff-ae34-bc7fde817796" />
 
 ![Correlation Heatmap](figures/correlation_heatmap.png)
 

@@ -45,5 +45,5 @@ cd titanic-eda
 # Install dependencies (create virtual env recommended)
 pip install pandas matplotlib seaborn
 
-# Run the Jupyter notebook or Python script
-jupyter notebook titanic_analysis.ipynb
+# Run the Python script
+python main.py
